@@ -6,7 +6,7 @@
         {
           "subcategory": "Rain",
           "image": "https://4pda.to/s/3fSV95AAerYtmz2Qz2ZkT2tG03z0DoXRhmcoQ1y.jpg",
-          "sound": "http://europaplus.hostingradio.ru:8014/europaplus320.mp3"
+          "sound": "https://www.4sync.com/web/directDownload/_UGpBDdz/H-EhwLKq.57c414ebeff61ec07aec2442a85503b0"
         },
         {
           "subcategory": "Birds",
